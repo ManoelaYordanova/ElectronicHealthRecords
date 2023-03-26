@@ -1,6 +1,6 @@
 # ElectronicHealthRecords
 
-## Project setup:
+## Backend setup:
 
 ##### 1. Inside the `src/main/resources` folder create a new file called `application.properties` with the following structure (Remember to add the PostgreSQL connection string, username and password):
 ```
