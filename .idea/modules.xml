@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/server/ElectronicHealthRecords.iml" filepath="$PROJECT_DIR$/server/ElectronicHealthRecords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElectronicHealthRecords-backend/ElectronicHealthRecords.iml" filepath="$PROJECT_DIR$/ElectronicHealthRecords-backend/ElectronicHealthRecords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElectronicHealthRecords (1).iml" filepath="$PROJECT_DIR$/ElectronicHealthRecords (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
     </modules>
   </component>
 </project>

@@ -7,15 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ElectronicHealthRecords" />
+        <module name="frontend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ElectronicHealthRecords" target="11" />
+      <module name="ElectronicHealthRecords (1)" target="1.8" />
+      <module name="electronichealthrecords-ui" target="11" />
+      <module name="frontend" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ElectronicHealthRecords" options="-parameters" />
+      <module name="ElectronicHealthRecords (1)" options="-parameters" />
+      <module name="electronichealthrecords-ui" options="-parameters" />
     </option>
   </component>
 </project>
